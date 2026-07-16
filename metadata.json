@@ -1,0 +1,6 @@
+{
+  "name": "Dzikir Counter",
+  "description": "A minimalist, elegant Islamic dzikir counter with a 33x cycle tracking feature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

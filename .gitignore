@@ -1,0 +1,36 @@
+# Gradle/Kotlin build files
+.gradle/
+.kotlin/
+build/
+**/build/
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+.navigation/
+captures/
+
+# Native build artifacts
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+.env
+
+# Keystore files (do not commit release keystores)
+*.jks
+*.keystore
+!debug.keystore
+
+# Build Outputs (APK, App Bundle, etc.)
+*.apk
+*.ap_
+*.aab
+/APK/
+/build/
+
+# Tool specific caches
+.qodo/
+.DS_Store
+*.log
