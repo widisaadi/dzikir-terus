@@ -35,7 +35,7 @@ Whether you want to track your daily routines or complete 33/99 counts, Dzikir T
 > **Looking for the app?**
 > You do not need to compile the source code or use Android Studio to try out the app! 
 > 
-> 👉 Go directly to the **[GitHub Releases](https://github.com/widisaadi/dzikir-terus/releases)** section and download the latest `.apk` file to install on your Android device.
+> 👉 Download the latest **[dzikir-terus-v.1.0-beta-release.apk](https://github.com/widisaadi/dzikir-terus/releases/download/v.1.0/dzikir-terus-v.1.0-beta-release.apk)** directly or check the **[GitHub Releases](https://github.com/widisaadi/dzikir-terus/releases)** page.
 
 ---
 
@@ -102,9 +102,9 @@ To run the codebase locally:
 
 ### 📥 Unduh Aplikasi
 Aplikasi ini sudah dipaketkan dalam bentuk berkas APK siap pakai. Anda tidak perlu melakukan compile kode sumber untuk mencobanya:
-1. Kunjungi halaman **[GitHub Releases](https://github.com/widisaadi/dzikir-terus/releases)**.
-2. Unduh berkas `.apk` versi terbaru.
-3. Kirim ke HP Android Anda dan instal secara langsung.
+1. Unduh berkas **[dzikir-terus-v.1.0-beta-release.apk](https://github.com/widisaadi/dzikir-terus/releases/download/v.1.0/dzikir-terus-v.1.0-beta-release.apk)** secara langsung.
+2. Atau kunjungi halaman **[GitHub Releases](https://github.com/widisaadi/dzikir-terus/releases)** jika ingin melihat rilis versi lainnya.
+3. Kirim berkas APK ke HP Android Anda dan instal secara langsung.
 
 ### Fitur Utama:
 * **Ketuk Di Mana Saja:** Cukup ketuk layar di bagian mana saja untuk menghitung.
